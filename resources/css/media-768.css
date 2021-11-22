@@ -1,0 +1,255 @@
+@media (min-width: 750px) {
+  
+  .font-fale-conosco{
+    font-size: 1rem;
+    font-weight: 600 !important;
+  }
+  .fotos-mobile{
+    display: none;
+  }
+  .sem-margem-top{
+    margin-top: 0px !important;
+  }
+  .titulo-texto-noticia-corpo{
+    font-size: 2.5rem;
+    padding-right: 20px;
+    font-weight: 700;
+    line-height: 50px;
+  }
+  .img-video{
+    min-height: 220px !important;
+    max-height: 240px !important;
+  }
+  
+  .titulo-texto-noticia{
+    font-size: 1.3rem;
+    line-height: 30px;
+  }
+
+  .container-img-relacionadas{
+    min-width: 400px !important;
+    max-width: 800px !important;
+  }
+
+  .container-img-relacionadas img{
+    object-fit: contain;
+  }
+  
+  .titulo-texto,.titulo-texto-video{
+    font-size: 1.4rem;
+    line-height: 30px;
+  }
+  .container-img-background{
+    overflow: hidden;
+    max-height: 93vh;
+  }
+
+  .contraste-base{
+    max-height: 430px !important;
+    min-height: 350px !important;
+  }
+
+  .contraste-base-projeto{
+    max-height: 700px !important;
+    min-height: 300px !important;
+  }
+  
+  .img-slide{
+    width: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .img-slide-background{
+    display: none;
+    position: absolute;
+    -webkit-filter: blur(100px);
+            filter: blur(100px);
+    -o-object-fit: cover;
+       object-fit: cover;
+    width: 98vw !important;
+   height: 95vh !important;
+  }
+  .swiper-button-next, .swiper-button-prev{
+    top: 22% !important;
+   }
+   .img-slide{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .slide-principal-container{
+    width: 100vw;
+    overflow: hidden !important;
+  }
+  .accordion{
+    margin-left: -19px;
+  }
+  .titulo-slide{
+    font-size: 3rem;
+    height: auto;
+    -webkit-line-clamp: 3;
+  }
+  .texto-slide{
+    font-size: 1.5rem;
+    height: auto;
+    -webkit-line-clamp: 3;
+  }
+  .img-loginha{
+    height: 250px;
+  }
+  .img-desk{
+    width: 50%;
+  }
+  .descricao{
+    left: 4vw;
+    height: auto;
+  }
+  .leia-mais{
+    font-size: 1.4rem;
+    margin-top: 1vh;
+  }
+  .img-noticia-relacionada{
+    display: block;
+    max-width: 350px;
+  }
+
+  /*PAGINA INSCRICAO EVENTO*/
+  /* Form */
+  .form-inscricao{
+    max-width: 90vw !important;
+    margin-left: 5vw;
+  }
+
+  .timeline-carousel__item-inner .year {
+    font-size: 35px;
+    margin: -25px 0px 10px;
+  }
+
+  .timeline-carousel__item-inner .month {
+    font-size: 25px;
+  }
+  
+  .timeline-carousel-item{
+    margin-top: 12vh;
+  }
+  .container-sem-slide{
+    margin-top: 20vh !important;
+  }
+  .card{
+    min-height: 310px;
+    max-height: 320px;
+  }
+  
+  .card-img{
+    transform: scale(1);
+    border-radius: 7px;
+  }
+
+  .container-texto-noticia-relacionadas{ 
+    border: none;  
+    min-width: 100px;
+    min-height: 235px;
+  }
+  
+  .container-noticia-relacionadas{
+    margin-bottom: 1px;
+    min-height: 220px;
+    margin-left: 2px;
+    padding-left: 10px;
+  }
+  
+  .container-texto-projeto-noticia{
+    min-width: 500px;
+    max-width: 950px;
+  }
+  .container-img-noticia-corpo{
+    max-width: 320px;
+    max-height: 400px;
+  }
+  
+  .img-noticia-corpo{
+    min-height: 100%;
+    min-width: 100%;
+  }
+  .content{
+    margin-right: 40px;
+  }
+  .slide-secundario{
+    min-height: 300px;
+    max-height: 350px;
+  }
+  
+  .slide-secundario-img{
+    min-height: 300px;
+    max-height: 350px;
+  }
+  .owl-container-slide-secundario{
+    margin-bottom: -200px;
+  }
+
+
+  .justify-content-end{
+    justify-content: flex-end !important;
+  }
+
+  .play-noticia{
+    position: absolute;
+    width: 60px !important;
+    top: 250px;
+    left: 37vw;
+  }
+  
+  .videos-noticia{
+    min-height: 400px !important;
+    max-height: 400px !important;
+    overflow: hidden;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .nome-arquivo-transparencia{
+    font-size: 1rem;
+  }
+
+  .table-container{
+    margin-top: 70px;
+  }
+
+  .pagination{
+    padding-left: 0px;
+    margin-left: -60px;
+  }
+
+  #datatable_filter{
+    margin-left: -310px !important;
+  }
+  
+  .form-control{
+  width: 75vw !important;
+  }
+  
+  .dataTables_info{
+  display: none;
+  }
+  
+  .selecao-transparencia{
+  margin-top: 40px;
+  }
+  
+  .cloud-download{
+  display: block;
+  color: blue;
+  }
+  
+  
+}

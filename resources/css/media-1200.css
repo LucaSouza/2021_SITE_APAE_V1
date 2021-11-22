@@ -1,0 +1,332 @@
+@media (min-width: 1200px) {
+
+  .container-heart{
+    padding-left: 10px;
+    padding-right: 8px;
+  }
+
+  .midia-item a{
+    padding-top: 5px !important;
+  }
+  #logo-site{
+    width: 10rem !important;
+  }
+  .slide-principal-container{
+    margin-top: 6vh;
+    width: 100vw;
+    height: 85vh !important;
+    overflow: hidden !important;
+  }
+  .font-fale-conosco{
+    font-size: 1.4rem;
+  }
+ 
+  .img-slide{
+    margin-top: -50px;
+  }
+  .wrapper-mini-programa img {
+    transform:scale(1.3) !important;
+  }
+
+  .wrapper-mini {
+    min-height: 273px !important;
+    max-height: 273px !important;
+    background-color: yellowgreen;
+  }
+
+  .container-preco{
+    margin-top: -12%;
+  }
+  
+  .titulo-slide{
+    font-size: 4rem;
+    height: auto;
+   -webkit-line-clamp: 3;
+  }
+  .texto-slide{
+    font-size: 1.3rem;
+    font-weight: 400;
+    height: auto;
+   -webkit-line-clamp: 3;
+  }
+  .descricao{
+    width: 70%;
+    left: 12vw;
+    top: 28% !important;
+    height: 150px;
+    -webkit-line-clamp: 3;
+  }
+  .navbar {
+    -ms-flex-flow: row nowrap !important;
+    flex-flow: row nowrap !important;
+    -ms-flex-pack: start !important;
+    justify-content: flex-start !important;
+  }
+  .navbar .navbar-nav {
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+  }
+  .navbar .navbar-nav .dropdown-menu {
+    position: absolute !important;
+  }
+  .navbar > .container,
+  .navbar > .container-fluid {
+    -ms-flex-wrap: nowrap !important;
+    flex-wrap: nowrap !important;
+  }
+  .navbar .navbar-collapse {
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -ms-flex-preferred-size: auto !important;
+    flex-basis: auto !important;
+  }
+  .navbar .navbar-toggler {
+    display: none !important;
+  }
+
+  #navbarNavDropdown{
+    overflow-y: auto !important;
+    scrollbar-color: none;
+  }
+
+ 
+
+  #navbarNav{
+    position: absolute;
+    right: 0px;
+    padding-right: 20px;
+  }
+  .navbar-collapse{
+    height: auto;
+  }
+
+  /*MENU*/
+  #logo-site{
+    width: 14rem;
+  }
+  .midia{
+    font-size: 2rem;
+  }
+  .navbar-dark .navbar-nav .nav-link{
+    color: rgba(255, 255, 255, 0.8);
+  }
+  .navbar-dark .navbar-nav .nav-link:hover{
+    color: rgba(255, 255, 255, 1);
+  }
+  #navbarNavDropdown a{
+    font-size: 1.1rem;
+    font-weight: 400;
+  }
+  /*ESTILO ITENS MENU*/
+  .nav-item{
+    width: auto;
+    margin-left: 0%;
+  }
+  .obj-slide{
+    display: block;
+  }
+  .container-img-lojinha{
+    transition: all 0.5s;
+    cursor: pointer;
+  }
+  .container-img-lojinha:hover{
+    -webkit-box-shadow: 1px 2px 22px -4px rgba(0,0,0,0.87); 
+    box-shadow: 1px 2px 22px -4px rgba(0,0,0,0.87);
+  }
+  /*PAGINA INSCRICAO EVENTO*/
+  /* Form */
+  .form-inscricao{
+    max-width: 50vw !important;
+    margin-left: 25vw;
+  }
+  
+  
+  .timeline-carousel__item-inner .year {
+    font-size: 28px;
+    margin: -45px 0px 10px;
+  }
+
+  .timeline-carousel__item-inner .month {
+    font-size: 17px;
+  }
+
+  .timeline-carousel-item{
+    margin-top: 12%;
+  }
+
+  .timeline-carousel__item-inner p {
+    font-size: 1.1rem;
+    line-height: 25px;
+    width: 95%;
+    font-weight: 350;
+    margin-bottom: 15px;
+  }
+ 
+  .sub-titulo-section-descricao{
+    font-size: 1.2rem;
+    margin-top: 2rem;
+  }
+   
+
+  .container-texto-projeto-noticia{
+    min-width: 50% !important;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+  }
+
+  .texto-segundario-noticias{
+    -webkit-line-clamp: 3;
+  }
+  .sem-margem-top{
+    margin-top: 0px !important;
+  }
+  .container-texto-video{
+    min-height: 50px !important;
+  }
+
+  #descricao-footer p{
+    font-size: 0.8rem;
+    font-weight: 600;
+    line-height: 10px;
+  }
+
+  .container-texto-noticia-relacionadas{
+    background-color: white;
+    padding: 10px;
+    border-radius: 0px 5px 5px 0px;
+    max-height: 150px !important;
+    min-width:500px !important;
+  }
+
+  .container-img-relacionadas img{
+    object-fit: fill !important;
+  }
+
+  .container-img-noticia-corpo{
+    max-height: 250px !important;
+    min-height: 200px;
+    min-width: 300px;
+  }
+
+  .container-noticia-relacionadas{
+    margin-bottom: 30px;
+    min-height: 200px;
+    margin-left: 0.1px;
+  }
+  .img-noticia-relacionada{
+    max-height: 200px !important;
+    min-height: 180px !important;
+    min-width: 250px !important;
+    max-width: 267px !important;
+  }
+  
+ #coracao{
+    position:absolute; 
+    top: 27px !important;
+    right: 75.5vw !important;
+  }
+  .contraste-base{
+    max-height: 390px !important;
+    min-height: 350px !important;
+  }
+
+  .container-sem-slide{
+    margin-top: 15vh !important;
+  }
+
+  .titulo-section-nossa-historia{
+    text-align: center !important;
+  }
+
+  .container-logo-imagem{
+    min-height: 50px;
+  }
+  .container-logos-bancos{
+    margin-top: 50px;
+  }
+
+  .logo-container{
+    font-size: 1rem;
+  }
+
+  .content{
+    margin-right: 220px;
+    visibility: visible;
+  }
+  .img-video{
+    min-height: 220px !important;
+    max-height: 230px !important;
+  }
+
+  #container-data-publicacao-social{
+    margin-left: 15.5vw;
+  }
+  .icon-social-container{
+    padding-right: 18vw;
+  }
+
+  .dividir{
+    border-bottom: solid 1px gray;
+    margin: 30px -10px 0px 0px;
+    width: 60vw;  
+    margin-left: calc(35vw/2);
+  } 
+
+  .card-servicos-title-margem{
+    margin-top: 70px !important;
+  }
+
+  .play-noticia{
+    position: absolute;
+    width: 60px !important;
+    top: 280px;
+    left: 35vw;
+  }
+  
+  .videos-noticia{
+    min-height: 450px !important;
+    max-height: 450px !important;
+    overflow: hidden;
+  }
+
+  .btn-menu {
+    cursor: pointer;
+    position: relative;
+    width: auto;
+    font-weight: bold;
+    border: none;
+  }
+  
+  .btn-menu::after {
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 0.2em;
+    background: #fff;
+    left: 25%;
+    bottom: 10px;
+  }
+  
+  .btn-top::after {
+    top: 0;
+  }
+
+  /* Button left underline animate */
+.btn-left::after {
+  transform: scale(0, 1);
+  transform-origin: 0% 100%;
+  transition: transform 0.3s ease;
+}
+
+.btn-left:hover::after {
+  transform: scale(1, 1);
+}
+
+.form-control{
+  width: 50vw !important;
+}
+
+ 
+
+}
+

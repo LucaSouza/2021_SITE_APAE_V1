@@ -1,0 +1,263 @@
+/*@MEDIA MINIMA DE 576PX*/
+@media (min-width: 500px) {
+  
+  .container-texto-projeto{
+    min-height: 200px !important;
+    margin-top: 10px;
+    padding-right: 30px;
+  }
+  .container-texto-video{
+    min-height: 150px !important;
+  }
+  .img-video{
+    min-height: 270px !important;
+    max-height: 300px !important;
+  }
+  .titulo-section-inicio{
+    font-size: 2rem;
+  }
+.titulo-texto-noticia-corpo{
+  font-size: 2.2rem;
+}
+
+.titulo-texto-noticia{
+  font-size: 1.2rem;
+}
+.texto-segundario-noticias{
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+.swiper-button-next, .swiper-button-prev{
+ top: 19% !important;
+}
+.gestao-titulo{
+  font-size: 1.3rem;
+}
+.accordion{
+  margin-left: -20px;
+}
+
+  /*MENU*/
+#logo-site{
+  width: 10rem;
+}
+.slide-principal-container{
+  width: 100vw;
+  height: auto !important;
+  overflow: hidden !important;
+}
+
+.midia{
+  font-size: 3rem;
+}
+#navbarNavDropdown a{
+  font-size: 1.2rem;
+}
+.descricao{
+  left: 4vw;
+  top: 35% !important;
+  height: 150px;
+  -webkit-line-clamp: 3;
+}
+.titulo-slide{
+  font-size: 2.8rem;
+  height: auto;
+  -webkit-line-clamp: 3;
+}
+.texto-slide{
+  display: block;
+  font-size: 1.1rem;
+  height: auto;
+}
+.titulo-section{
+  font-size: 1.7rem;
+}
+.sub-titulo-section{
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.ver-tudo{
+  font-size: 1.1rem;
+}
+
+/*ESTILO LOJINHA*/
+.preco{
+  font-size: 1.2rem;
+}
+.container-preco{
+  margin-top: -17%;
+}
+.img-loginha{
+  height: 255px;
+}
+
+/*ESTILO PROJETOS*/
+.titulo-texto,.titulo-texto-video{
+  font-size: 1.4rem;
+  line-height: 30px;
+}
+
+.texto-segundario{
+  font-size: 1.1rem;
+}
+.etiqueta-post span, .etiqueta-post{
+  display: block;
+  text-align: center;
+  color: #fff;
+  font-size: 0.8rem;
+}
+
+.card-img{
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.card-servicos-title{
+  font-size: 1.7rem;
+  color: white;
+}
+
+.container-sem-slide{
+  margin-top: 20vh !important;
+}
+/*ESTILO FOOTER*/
+#descricao-footer p{
+  font-size: 0.9rem;
+  text-align: center;
+  font-weight: 400;
+  line-height: 17px;
+}
+
+.img-overlay-servico{
+  margin-top: 5%;
+}
+.timeline-carousel__item-inner .year {
+  font-size: 35px;
+  margin: -25px 0px 10px;
+}
+
+.timeline-carousel__item-inner .month {
+  font-size: 25px;
+}
+
+.titulo-section-nossa-historia{
+  font-size: 3rem;
+}
+.selecao-projeto-noticia:first-child{
+  margin-top: 5vh;
+}
+
+.sub-titulo-section-descricao{
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+.mais-fotos{
+  font-size: 2rem;
+  color: aliceblue;
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  width: auto;
+}
+.img-noticia-corpo{
+  max-width: 100% !important;
+  min-width: 100% !important;
+  max-height: 100% !important;
+ }
+
+.contraste-base{
+  max-height: 400px !important;
+  min-height: 350px !important;
+}
+
+.contraste-base-projeto{
+  max-height: 650px !important;
+  min-height: 450px !important;
+}
+.card{
+  min-height: 280px;
+  max-height: 280px;
+}
+
+.card-img{
+  transform: scale(1.1);
+}
+
+.container-texto-noticia-relacionadas{
+  padding:20px;
+}
+#coracao{
+  position:fixed; 
+  top: 90px !important;
+  right: 58vw !important;
+}
+
+.container-img-noticia-corpo{
+  max-height: 400px;
+}
+
+.img-noticia-corpo{
+  object-fit: cover !important;
+  width: 100%;
+}
+
+.container-noticia{
+  border-bottom:none;
+}
+
+.slide-secundario{
+  min-height: 250px;
+  max-height: 3000px;
+}
+
+.slide-secundario-img{
+  min-height: 250px;
+  max-height: 300px;
+}
+
+.justify-content-end{
+  justify-content: flex-end !important;
+}
+
+.play-noticia{
+  position: absolute;
+  width: 60px !important;
+  top: 200px;
+  left: 42vw;
+}
+
+.videos-noticia{
+  min-height: 300px;
+  max-height: 300px;
+  overflow: hidden;
+}
+
+.icon-social-container{
+  padding-right: 0px;
+}
+
+.nome-arquivo-transparencia{
+  font-size: 0.95rem;
+}
+.pagination{
+  padding-left: calc(35vw - (100vw - 100%)) !important;
+}
+
+.selecao-transparencia{
+margin-top: 40px;
+}
+
+.titulo-table{
+font-size: 1.8rem;
+font-weight: 600;
+text-align: center;
+}
+
+.cloud-download{
+display: none;
+width: 100px;
+min-height: 25px;
+}
+}

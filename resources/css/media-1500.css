@@ -1,0 +1,179 @@
+@media (min-width: 1400px) {
+  #logo-site{
+    width: 12rem !important;
+  }
+
+  .nav-link{
+    font-size: 1.1rem !important;
+  }
+
+  .slide-principal-container{
+    width: 100vw;
+    height: 90vh !important;
+    overflow: hidden !important;
+  }
+  .titulo-section-inicio{
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 50px;
+  }
+  .noticia{
+    background-color: white;
+  }
+  .img-slide{
+    margin-top: -70px;
+  }
+
+  .titulo-texto,.titulo-texto-video{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 1rem;
+    line-height: 30px;
+  }
+  #navbarNavDropdown a{
+    font-size: 1.3rem;
+    font-weight: 400;
+  }
+  /*ESTILO SILDE PAGINA PRINCIPAL*/
+  .descricao{
+    width: 70%;
+    position: absolute;
+    top: 32% !important;
+    left: 10vw !important;
+    text-align: left;
+    -webkit-line-clamp: 3;
+  }
+  .titulo-slide{
+    font-size: 4rem;
+    height: auto;
+   -webkit-line-clamp: 3;
+  }
+  .texto-slide{
+    font-size: 1.5rem;
+    font-weight: 350;
+    height: auto;
+   -webkit-line-clamp: 3;
+  }
+  .leia-mais{
+    font-size: 1.4rem;
+    margin-top: 1.2vh;
+  }
+
+  #descricao-footer p{
+    font-size: 0.8rem;
+    text-align: center;
+    font-weight: 600;
+  }
+  /*PAGINA INSCRICAO EVENTO*/
+  /* Form */
+  .form-inscricao{
+    max-width: 40vw !important;
+    margin-left: 30vw;
+  }
+ 
+  
+  .wrapper-mini-programa img {
+    transform:scale(1.6) !important;
+  }
+
+  .wrapper-mini {
+    min-height: 290px !important;
+    max-height: 290px !important;
+    background-color: yellowgreen;
+  }
+  
+  .container-texto-noticia-relacionadas{
+    background-color: white;
+    padding: 10px;
+    border-radius: 0px 5px 5px 0px;
+    max-height: 200px !important;
+    min-width:500px !important;
+    margin-left:-10px;
+  }
+  
+  
+  .container-noticia-relacionadas{
+    margin-bottom: 30px;
+    min-height: 200px;
+    margin-left: 0.1px;
+  }
+
+  #coracao{
+    position:absolute; 
+    top: 35px !important;
+    right: 67vw !important;
+  }
+
+  .container-sem-slide{
+    margin-top: 20vh !important;
+  }
+
+  .container-container-01{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .content{
+    margin-right: 350px;
+  }
+
+  .titulo-texto-noticia{
+    font-size: 1.7rem;
+    line-height: 35px;
+  }
+
+  .img-noticia-relacionada{
+    max-height: 92% !important;
+    min-height: 92% !important;
+    min-width: 85% !important;
+    max-width: 100% !important;
+  }
+  .img-video{
+    min-height: 300px !important;
+    max-height: 300px !important;
+  }
+
+  .slide-secundario{
+    margin-top: 180px !important;
+  }
+
+  .owl-container-slide-secundario{
+    margin-bottom: -50px;
+  }
+
+  .slide-secundario-img{
+    min-height: 350px;
+    max-height: 350px;
+  }
+
+  #container-data-publicacao-social{
+    margin-left: 19vw;
+  }
+  
+  .icon-social-container{
+    padding-right: 24vw;
+  }
+
+  .container-img-noticia-corpo{
+    max-height: 300px !important;
+    min-height: 250px;
+    min-width: 300px;
+  }
+
+  .dividir{
+    margin: 30px -10px 0px 0px;
+    width: 52vw;  
+    margin-left: calc(40vw/2);
+  } 
+
+  .play-noticia{
+    position: absolute;
+    width: 60px !important;
+    top: 280px;
+    left: 20vw;
+  }
+
+  .form-control{
+    width: 40vw !important;
+  }
+}

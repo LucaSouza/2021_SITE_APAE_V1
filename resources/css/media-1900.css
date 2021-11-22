@@ -1,0 +1,347 @@
+@media (min-width: 1900px) {
+  .nav-link{
+    font-size: 1.25rem !important;
+  }
+  .tag-noticia-corpo{
+    margin-top: 25px;
+    
+  }
+  .nav-link{
+    padding-top: 5px;
+    font-size: 1.4rem;
+  }
+  .container-titulo-noticia{
+    margin-bottom: 50px !important;
+  }
+  .descricao-noticia-corpo{
+    padding-right: 5% !important;
+  }
+
+ 
+  .container-titulo-noticia::after {
+    display: inline-block;
+    content: "";
+    border-top: 0.1rem solid rgba(167, 163, 157, 0.4);
+    width: 55rem;
+    margin: 0 1rem;
+    transform: translateY(-1rem);
+    margin-left: 25%;
+}
+   
+  .container-texto-projeto{
+    min-height: 220px !important;
+    max-height: 240px !important;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+  }
+  .contraste-base-projeto{
+    max-height: 650px !important;
+    min-height: 550px !important;
+  }
+
+  .contraste-base{
+    max-height: 5000px !important;
+    min-height: 350px !important;
+  }
+
+  #navbarNavDropdown a{
+    font-size: 1.3rem;
+    font-weight: 400;
+  }
+
+  
+
+  /*ESTILO SILDE PAGINA PRINCIPAL*/
+  
+  .img-slide-secundario,.img-noticia{
+    min-height: 290px !important;
+    min-width: 100% !important;
+    max-height: 290px !important;
+  }
+  .img-slide{
+    margin-top: -100px;
+  }
+  .descricao{
+    width: 70%;
+    position: absolute;
+    top: 35% !important;
+    left: 10vw !important;
+    text-align: left;
+    -webkit-line-clamp: 3;
+  }
+
+ 
+  .titulo-slide{
+    font-size: 6rem;
+    height: auto;
+    -webkit-line-clamp: 3;
+  }
+  .titulo-texto-projeto{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    line-height: 40px;
+  }
+  .texto-slide{
+    font-size: 2rem;
+    font-weight: 350;
+    height: auto;
+   -webkit-line-clamp: 3 !important;
+    text-align: justify;
+    width: 93% !important;
+  }
+  .leia-mais{
+    font-size: 1.4rem;
+    margin-top: 1.2vh;
+  }
+
+  #descricao-footer p{
+    font-size: 0.8rem;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  .movie__title{
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+  }
+  /*PAGINA INSCRICAO EVENTO*/
+  /* Form */
+  .form-inscricao{
+    max-width: 40vw !important;
+    margin-left: 30vw;
+  }
+
+  
+
+  .timeline-carousel__item-inner .year {
+    font-size: 30px;
+    margin: -38px 0px 10px;
+  }
+
+  .timeline-carousel__item-inner .month {
+    font-size: 20px;
+  }
+
+  .timeline-carousel-item{
+    margin-top: 12%;
+  }
+
+  .timeline-carousel__item-inner p {
+    font-size: 1.2rem;
+    line-height: 25px;
+    width: 95%;
+    font-weight: 350;
+    margin-bottom: 15px;
+  }
+  .timeline-carousel-item{
+    margin-top: 10%;
+  }
+  .titulo-projeto{
+    margin-bottom: 5vh;
+  }
+
+  .sub-projeto{
+    font-size: 1.2rem;
+    text-align: justify;
+
+  }
+  
+  .container-noticia-corpo{
+    max-height: 80px !important;
+  }
+  .noticia{
+    background-color: white;
+    padding: 20px;
+    margin-left: -0.5px !important;
+    max-height: 280px;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid gainsboro;
+  }
+
+  .container-noticia{
+    padding-bottom: 5px;
+    border: none;
+    margin-bottom: 150px;
+  }
+  
+  .container-texto-projeto-noticia{
+    min-width: 70% !important;
+    padding-left: 20px !important;
+  }
+
+  .titulo-texto-noticia{
+    font-size: 1.6rem;
+    line-height: 35px;
+  }
+  .container-tags{
+    position:relative;
+    margin-top:5px !important;
+    margin-bottom: 5px !important;
+    margin-left: 8px !important;
+
+  }
+
+  .container-tags-noticia{
+    margin-left: -2px !important;
+  }
+
+  .wrapper-gestao img{
+    max-width: 10px !important;
+  }
+
+  .container-texto-noticia-relacionadas{
+    background-color: white;
+    padding: 10px;
+    border-radius: 0px 5px 5px 0px;
+    min-height: 200px !important;
+    max-height: 650px !important;
+    min-width:100px !important;
+  }
+
+  .container-img-relacionadas{
+    min-width: 400px !important;
+    max-width: 800px !important;
+  }
+
+  .container-img-relacionadas img{
+    object-fit: contain;
+  }
+
+  .container-noticia-relacionadas{
+    margin-bottom: 30px;
+    min-height: 200px;
+    margin-left: 0.1px;
+  }
+  .img-noticia-relacionada{
+    max-height: 92% !important;
+    min-height: 92% !important;
+    min-width: 85% !important;
+    max-width: 100% !important;
+  }
+
+  .noticia{
+    background-color: none;
+  }
+
+  .container-sem-slide{
+    margin-top: 20vh !important;
+  }
+
+  .titulo-texto-noticia-corpo{
+    width: 55vw;
+    font-size: 4rem;
+    line-height: 70px !important;
+    margin-bottom: 40px;
+  }
+  
+  .btn-doacao{
+    border-radius: 1000px !important;
+    padding: 10px;
+    z-index: 9999 !important;
+  }
+
+  
+  
+  #my-navbar{
+    min-height: 120px !important;
+  }
+  
+  .content{
+    margin-right: 450px;
+  }
+
+  #data-publicacao{
+    font-size: 1.1rem;
+  }
+
+  .slide-secundario{
+    margin-top: 150px !important;
+    min-height: 400px;
+    max-height: 450px;
+  }
+  .slide-secundario-img{
+    min-height: 450px;
+    max-height: 450px;
+  }
+
+  #container-data-publicacao-social{
+    margin-left: 19.5vw;
+  }
+  
+  .icon-social-container{
+    padding-right: 25vw;
+  }
+  
+  .imagem-noticia:first-child{
+    filter: brightness(0.7);
+  }
+  .container-noticia-corpo{
+    margin-top: 60px !important;
+  }
+  .wrapper-mini {
+    min-height: 300px !important;
+    max-height: 300px !important;
+  }
+  
+  .gestao-adm{
+    margin-top: 60px !important;
+  }
+
+  .card-img-overlay, .img-overlay-servico{
+    border-radius: 10px !important;
+  }
+
+  .card{
+    min-height: 300px;
+    max-height: 320px;
+  }
+
+  .table-container{
+    margin-top: 40px;
+    border-radius: 7px;
+    background-color: white;
+    padding: 30px !important;
+  }
+
+  #datatable_info, #datatable_paginate{
+    margin-top: 120px !important;
+  }
+
+#datatable_filter{
+  margin-left: -465px;
+  margin-bottom: 20px;
+}
+
+label{
+  font-weight: 600;
+}
+
+.form-control{
+  width: 30vw !important;
+}
+
+.dataTables_info{
+  display: none;
+}
+
+.selecao-transparencia{
+  margin-top: 200px;
+}
+
+.titulo-table{
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.cloud-download{
+  width: 100px;
+  min-height: 25px;
+}
+
+  
+  
+}

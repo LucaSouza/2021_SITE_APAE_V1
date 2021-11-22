@@ -1,0 +1,269 @@
+@media (min-width: 900px) {
+ 
+  .fluid-slide{
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  
+  .texto-segundario-noticia{
+    font-size: 1.1rem;
+    font-weight:400;
+  }
+  .nav-paginas{
+    display: block;
+    margin-left: 45%;
+  }
+  .titulo-section-nossa-historia{
+    font-size: 2.6rem;
+    font-weight: 700;
+    margin-top: 30px;
+  }
+
+  .titulo-section-inicio{
+    font-size: 1.8rem;
+    margin-top: 50px;
+  }
+  .fotos-desk{
+    display: block;
+  }
+  .videos-desk{
+    display: block;
+  }
+  .videos-mobile{
+    display: block;
+  }
+  .swiper-button-next, .swiper-button-prev{
+    top: 15% !important;
+   }
+  .accordion{
+    margin-left: -20px;
+  }
+  .padding-main{
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  /*ESTILO SILDE PAGINA PRINCIPAL*/
+  .descricao{
+    left: 4vw;
+    top: 40% !important;
+    height: 150px;
+    -webkit-line-clamp: 3;
+  }
+  .titulo-slide{
+    font-size: 4rem;
+    height: auto;
+   -webkit-line-clamp: 3;
+  }
+  .texto-slide{
+    font-size: 1.5rem;
+    font-weight: 400;
+    height: auto;
+   -webkit-line-clamp: 4;
+  }
+
+  .leia-mais{
+    font-size: 1.5rem;
+  }
+  .img-loginha{
+    height:250px;
+  }
+  .container-img-background{
+    overflow: hidden;
+    max-height: 95vh;
+  }
+  .img-slide-background{
+    display: block;
+    position: absolute;
+    -webkit-filter: blur(100px);
+            filter: blur(100px);
+    -o-object-fit: cover;
+       object-fit: cover;
+    width: 95vw !important;
+   height: 95vh !important;
+  }
+  .leia-mais{
+    font-size: 1.4rem;
+    margin-top: 1.2vh;
+  }
+  /*PAGINA INSCRICAO EVENTO*/
+  /* Form */
+  .form-inscricao{
+    max-width: 40vw !important;
+    margin-left: 30vw;
+  }
+
+  
+  .transparencia-container{
+    margin-top: 2% !important;
+  }
+  .container-noticia{
+    border-bottom: none;
+  }
+
+  .container-sem-slide{
+    margin-top: 20vh !important;
+  }
+  .img-desk, .img-mobile{
+    filter:drop-shadow(8px 8px 10px gray); 
+    filter:brightness(50%);
+}
+.mais-fotos{
+  top: 80%;
+}
+.wrapper-mini {
+  min-height: 260px !important;
+  max-height: 300px !important;
+}
+
+.card-servicos-title-margem{
+  margin-top: 80px !important;
+}
+
+
+.titulo-texto,.titulo-texto-noticia,.titulo-texto-video{
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 25px;
+}
+
+.container-img-relacionadas{
+  min-width: 300px !important;
+  max-width: 300px !important;
+}
+
+.container-img-relacionadas img{
+  object-fit: fill;
+}
+
+.container-noticia-relacionadas{
+  margin-bottom: 30px;
+  min-height: 150px;
+  background-color: white;
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+.img-noticia-relacionada{
+  display:block;
+  max-height: 200px !important;
+  min-width: 250px !important;
+}
+
+.container-texto-noticia-relacionadas{
+  background-color: none !important;
+  padding: none !important;
+  border-radius: none !important;
+  min-width:400px !important;
+  margin-left: -15px;
+  max-height: 230px !important;
+  min-height: 200px !important;
+}
+
+.container-img-noticia-corpo{
+  max-height: 250px !important;
+  min-height: 200px;
+  min-width: 300px;
+}
+
+.container-container-01{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.content{
+  margin-right: 90px;
+}
+
+.img-video{
+  min-height: 280px !important;
+  max-height: 300px !important;
+}
+
+.owl-container-slide-secundario{
+  margin-bottom: -100px;
+}
+
+.slide-secundario-img{
+  min-height: 350px;
+  max-height: 400px;
+}
+
+.icon-social-container{
+  padding-right: 1vw;
+}
+
+.justify-content-end{
+  justify-content: flex-end !important;
+}
+
+.container-img-corpo-noticia{
+  margin-bottom: 20px;
+}
+.img-corpo-noticia{
+  min-width: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  margin-top: 150px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.dividir{
+  border-bottom: solid 1px gray;
+  margin: 30px 10px -30px 10px;
+  width: 90vw;
+  margin-left: 10px;
+
+}
+
+.titulo-texto-noticia-corpo{
+  font-size: 3.5rem;
+  line-height: 4rem !important;
+  letter-spacing:-0.15625rem; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.nome-arquivo-transparencia{
+  font-size: 1rem;
+}
+
+.table-container{
+  margin-top: 70px;
+}
+
+.pagination{
+  padding-left: 0px;
+  margin-left: -60px;
+}
+
+#datatable_filter{
+  margin-left: -310px !important;
+}
+
+.form-control{
+width: 60vw !important;
+}
+
+.dataTables_info{
+display: none;
+}
+
+.selecao-transparencia{
+margin-top: 40px;
+}
+
+.cloud-download{
+display: block;
+color: blue;
+}
+}
+
